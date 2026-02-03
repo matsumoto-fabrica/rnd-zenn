@@ -1,12 +1,12 @@
 ---
-title: "ラズパイにカニを飼う ─ OpenClaw を Raspberry Pi 5 で動かす"
+title: "Raspberry Pi 5 にカニ（OpenClaw）を入れる"
 emoji: "🦞"
 type: "tech"
 topics: ["RaspberryPi", "OpenClaw", "Discord", "AI", "自動化"]
 published: false
 ---
 
-# ラズパイにカニを飼う 🦞
+# Raspberry Pi 5 にカニ（OpenClaw）を入れる
 
 ## OpenClaw とは
 
