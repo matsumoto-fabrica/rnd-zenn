@@ -1,12 +1,12 @@
 ---
-title: "Raspberry Pi 5 にカニ（OpenClaw）を入れる"
-emoji: "🦞"
+title: "Raspberry Pi 5 にカニを入れる - OpenClaw"
+emoji: "🦀"
 type: "tech"
 topics: ["RaspberryPi", "OpenClaw", "Discord", "AI", "自動化"]
-published: false
+published: true
 ---
 
-# Raspberry Pi 5 にカニ（OpenClaw）を入れる
+# Raspberry Pi 5 にカニを入れる
 
 ## OpenClaw とは
 
@@ -84,7 +84,7 @@ OAuth2 → URL Generator:
 }
 ```
 
-## 踏んだ地雷
+## つまずきポイント
 
 | 症状 | 原因 | 解決 |
 |------|------|------|
