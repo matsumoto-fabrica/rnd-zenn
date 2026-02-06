@@ -73,3 +73,4 @@ OpenClaw を Raspberry Pi 5 にインストールし、Discord Bot として動�
 | 日付 | 記事 | 元ノート |
 |------|------|----------|
 | 2026-02-03 | [Raspberry Pi 5 に OpenClaw をインストールして Discord Bot を動かしてみた](../docs/articles/2026-02-03_openclaw-raspberry-pi-discord.md) | 001_initial_setup |
+| 2026-02-06 | [ml5.js × p5.js でブラウザ ML デモを作ってみた](../docs/articles/2026-02-06_ml5js-browser-ml-demo.md) | 004_ml5js_browser_ml |
