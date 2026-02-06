@@ -1,0 +1,43 @@
+# rnd-seed 監視設定
+# シード収集の対象ソース・キーワード・フィルタを定義
+
+x_accounts:
+  - username: "sdaifuku"
+    display_name: "sdaifuku"
+    topics: ["デジタル", "エンタメ", "VisionPro"]
+
+zenn:
+  trending:
+    enabled: true
+    count: 20
+  users: []
+  topics:
+    - "ai"
+    - "rust"
+    - "typescript"
+
+note:
+  categories:
+    - slug: "tech"
+
+keywords:
+  - "デジタル"
+  - "エンタメ"
+  - "VisionPro"
+  - "MR"
+  - "XR"
+  - "iOS"
+  - "MultiVerse"
+  - "Claude Code"
+  - "AI agent"
+
+filters:
+  exclude_keywords:
+    - "PR"
+    - "広告"
+    - "スポンサー"
+  min_liked_count: 5
+
+output:
+  daily_max_items: 30
+  summary_top_n: 10

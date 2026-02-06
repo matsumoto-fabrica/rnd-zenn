@@ -47,9 +47,9 @@ OpenClaw を Raspberry Pi 5 にインストールし、Discord Bot として動�
 
 ## 現在のフォーカス
 
-**アクティブノート**: なし（R&D 完了）
+**アクティブノート**: [005_webllm_browser_llm](notes/005_webllm_browser_llm/index.md)
 
-**状況**: 🦞 OpenClaw を Raspberry Pi 5 にインストールし、Discord Bot として動作確認完了！
+**状況**: ブラウザML R&D シリーズ進行中（004完了 → 005〜007へ）
 
 ---
 
@@ -58,6 +58,13 @@ OpenClaw を Raspberry Pi 5 にインストールし、Discord Bot として動�
 | # | タイトル | ステータス | 概要 |
 |---|----------|------------|------|
 | 001 | [initial_setup](notes/001_initial_setup/index.md) | ✅ done | OpenClaw を RasPi5 にインストール、Discord Bot 動作確認成功 |
+| 002 | [ghostty_overview](notes/002_ghostty_overview/index.md) | active | Ghosttyターミナルの特徴と競合比較調査 |
+| 003 | [spatial_computing_xr_comparison](notes/003_spatial_computing_xr_comparison/index.md) | active | Android XR vs Apple Vision Pro 空間コンピューティング方向性比較 (Seed: 2026-02-06/N-003) |
+| 004 | [ml5js_browser_ml](notes/004_ml5js_browser_ml/index.md) | ✅ done | ml5.js × p5.js で5モデル対応インタラクティブMLデモ完成（フェイスフィルター+メッシュエフェクト） |
+| 005 | [webllm_browser_llm](notes/005_webllm_browser_llm/index.md) | idea | WebLLM - ブラウザ内LLM推論（+340%成長） |
+| 006 | [transformers_js_huggingface](notes/006_transformers_js_huggingface/index.md) | idea | Transformers.js - HuggingFace 1,200+モデルをブラウザで（~3倍成長） |
+| 007 | [onnx_runtime_web](notes/007_onnx_runtime_web/index.md) | idea | ONNX Runtime Web - WebGPU/WebNN基盤エンジン（+185%成長） |
+| 008 | [markdown_cms](notes/008_markdown_cms/index.md) | idea | 自前 Markdown CMS（Hono + DynamoDB + S3 on AWS） |
 
 ---
 
