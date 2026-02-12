@@ -65,6 +65,8 @@ OpenClaw を Raspberry Pi 5 にインストールし、Discord Bot として動�
 | 006 | [transformers_js_huggingface](notes/006_transformers_js_huggingface/index.md) | idea | Transformers.js - HuggingFace 1,200+モデルをブラウザで（~3倍成長） |
 | 007 | [onnx_runtime_web](notes/007_onnx_runtime_web/index.md) | idea | ONNX Runtime Web - WebGPU/WebNN基盤エンジン（+185%成長） |
 | 008 | [markdown_cms](notes/008_markdown_cms/index.md) | idea | 自前 Markdown CMS（Hono + DynamoDB + S3 on AWS） |
+| 009 | [ios_vision_segmentation](notes/009_ios_vision_segmentation/index.md) | idea | iOS Vision Segmentation |
+| 010 | [openclaw_browser](notes/010_openclaw_browser/index.md) | ✅ done | OpenClaw Browser検証 — Pi5 headless + ノード経由Mac操作（Playwright内部エンジン） |
 
 ---
 
@@ -73,4 +75,4 @@ OpenClaw を Raspberry Pi 5 にインストールし、Discord Bot として動�
 | 日付 | 記事 | 元ノート |
 |------|------|----------|
 | 2026-02-03 | [Raspberry Pi 5 に OpenClaw をインストールして Discord Bot を動かしてみた](../docs/articles/2026-02-03_openclaw-raspberry-pi-discord.md) | 001_initial_setup |
-| 2026-02-06 | [ml5.js × p5.js でブラウザ ML デモを作ってみた](../docs/articles/2026-02-06_ml5js-browser-ml-demo.md) | 004_ml5js_browser_ml |
+
